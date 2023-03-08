@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "detail": "Karakter & Cons",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/allChar.webp"
+    },
+    {
+        "id": 2,
+        "detail": "Progress Jurnal",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/jurnal.webp"
+    },
+    {
+        "id": 3,
+        "detail": "Weapon",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/weapon.webp"
+    },
+    {
+        "id": 4,
+        "detail": "Explore Map Progress",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/explore.webp"
+    },
+    {
+        "id": 5,
+        "detail": "Serenitea Pot",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/pot.webp"
+    },
+    {
+        "id": 6,
+        "detail": "Koleksi CardName",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/card-name.webp"
+    },
+    {
+        "id": 7,
+        "detail": "Etc.",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/other.webp"
+    },
+    {
+        "id": 8,
+        "detail": "Pity Gacha Event",
+        "images": "https://raw.githubusercontent.com/Arleth98/gi/main/account/pity-gacha.webp"
+    }
+]
